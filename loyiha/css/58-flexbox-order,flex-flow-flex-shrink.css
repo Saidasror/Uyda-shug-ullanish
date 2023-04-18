@@ -1,0 +1,30 @@
+body {
+    font-family: Old English Text MT;
+}
+
+.flex-contanier {
+    display: flex;
+    padding: 20px;
+    background-color: #025955;
+    border-radius: 10px;
+}
+
+.flex-item {
+    padding: 60px 15px;
+    background-color: #FDE8CD;
+    font-weight: bold;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.oreder-minus-5 {
+    order: -5;
+}
+
+.order-1 {
+    order: 1;
+}
+
+.order-10 {
+    order: 10;
+}

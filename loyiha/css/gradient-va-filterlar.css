@@ -1,0 +1,5 @@
+.gradient-box {
+    width: 600px;
+    height: 800px;
+    background-image: linear-gradient(to right, aqua, red);
+}

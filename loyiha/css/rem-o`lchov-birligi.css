@@ -1,0 +1,8 @@
+.box {
+    height: 600px;
+    width: 1000px;
+    border: 1px solid aquamarine;
+    font-size: 1rem;
+    border-radius: 0.5em; /*5 * 20px =100px;*/
+    padding: 5rem; /* 5 * 16px= 80px*/
+}

@@ -1,0 +1,19 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.grid-contanier {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 20px;
+    background-color: #025955;
+    border-radius: 10px;
+}
+
+.grid-item {
+    padding: 20px;
+    background-color: #FDE8CD;
+    font-weight: bold;
+    margin: 10px;
+    border-radius: 10px;
+}

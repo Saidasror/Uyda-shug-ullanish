@@ -1,0 +1,14 @@
+.box {
+    background-color: red;
+    height: 200px;
+    margin-top: 10px;
+    top: 30px;
+    left: 50px;
+    position: relative;
+    bottom: 40px;
+}
+
+.link {
+    background-color: blue;
+    color: white;
+}

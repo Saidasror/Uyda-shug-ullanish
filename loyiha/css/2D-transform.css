@@ -1,0 +1,11 @@
+.parent-box {
+    margin-top: 100px;
+    border: 5px solid aqua;
+}
+
+.box {
+    height: 100px;
+    background-color: red;
+    transform: rotate(45deg);
+    transform-origin: top right;
+}
